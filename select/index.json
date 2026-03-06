@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Mikrokosmos",
+  "base_artist": "BTS",
+  "createdAt": "2026-03-06T15:30:45.534051Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Snu Mikrokosmos Tegn",
+      "artist": "Burzum",
+      "has_synced": true,
+      "path": "select/01_Snu_Mikrokosmos_Tegn_Burzum.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mikrokosmos",
+      "artist": "BTS",
+      "has_synced": true,
+      "path": "select/02_Mikrokosmos_BTS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Turn the Sign of the Microcosm (Snu Mikrokosmos' Tegn)",
+      "artist": "Burzum",
+      "has_synced": false,
+      "path": "select/03_Turn_the_Sign_of_the_Microcosm_(Snu_Mikrokosmos'_Tegn)_Burzum.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mikrokosmos",
+      "artist": "ko - BTS (방탄소년단) / en - BTS",
+      "has_synced": true,
+      "path": "select/04_Mikrokosmos_ko_-_BTS_(방탄소년단)___en_-_BTS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mikrokosmos",
+      "artist": "ko - BTS (방탄소년단) / en - BTS",
+      "has_synced": true,
+      "path": "select/05_Mikrokosmos_ko_-_BTS_(방탄소년단)___en_-_BTS.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "소우주 (Mikrokosmos)",
+      "artist": "BTS (방탄소년단)",
+      "has_synced": true,
+      "path": "select/06_소우주_(Mikrokosmos)_BTS_(방탄소년단).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "소우주 (Mikrokosmos)",
+      "artist": "방탄소년단",
+      "has_synced": true,
+      "path": "select/07_소우주_(Mikrokosmos)_방탄소년단.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "MIKROKOSMOS",
+      "artist": "BTS",
+      "has_synced": true,
+      "path": "select/08_MIKROKOSMOS_BTS.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mikrokosmos",
+      "artist": "Vasilis Papakonstadinou",
+      "has_synced": true,
+      "path": "select/09_Mikrokosmos_Vasilis_Papakonstadinou.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mikrokosmos",
+      "artist": "Japanische Kampfhörspiele",
+      "has_synced": false,
+      "path": "select/10_Mikrokosmos_Japanische_Kampfhörspiele.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Two Excerpts from Mikrokosmos (arr.Serly) - 142. From the Diary of a Fly",
+      "artist": "Antal Dorati",
+      "has_synced": true,
+      "path": "select/11_Two_Excerpts_from_Mikrokosmos_(arr.Serly)_-_142._From_the_Diary_of_a_Fly_Antal_Dorati.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mikrokosmos",
+      "artist": "BTS",
+      "has_synced": false,
+      "path": "select/pl_01_Mikrokosmos_BTS.txt"
+    }
+  ]
+}
